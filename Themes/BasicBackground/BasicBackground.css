@@ -205,8 +205,7 @@ html {
 		10.	TYPINGINDICATOR
 		11.	BADGESEVERYWHERE
 		12.	CHANNELDMS
-	19.	UPDATENOTICE
-	20.	WATERMARK
+	19.	WATERMARK
 */
 
 
@@ -7381,14 +7380,7 @@ html .typingindicator-folder {
 }
 
 
-/* ~~~~		19.		UPDATENOTICE					~~~~ */
-
-html:only-child > head + body div.app-3xd6d0 > div.app-2CXKsg::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
-}
-
-
-/* ~~~~		20.		WATERMARK						~~~~ */
+/* ~~~~		19.		WATERMARK						~~~~ */
 
 html:only-child > head + body div.typeWindows-2-g3UY.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr > div.wordmark-2u86JB {
 	display: block !important;
