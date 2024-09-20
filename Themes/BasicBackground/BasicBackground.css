@@ -413,7 +413,7 @@ body::after {
 	left: 72px;
 }
 .winButtonMinMax-3RsPUg:hover {
-	background-color: rgba(var(--transparencycolor), .2);
+	background-color: rgba(var(--transparencycolor), .05);
 }
 
 
